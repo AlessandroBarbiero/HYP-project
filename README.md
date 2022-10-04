@@ -14,7 +14,6 @@ The website is accessible at [https://visitvenice.herokuapp.com](https://visitve
 - Andrea Cerasani ([@andreacerasani](https://github.com/andreacerasani)) 
   <br>
 
-#### Final score: -/30L
 
 ---
 
