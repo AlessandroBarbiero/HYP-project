@@ -1,18 +1,10 @@
 # Hypermedia Applications Project 2022
 
 Project for the Hypermedia Applications course at Politecnico di Milano.  
-<br>
-The website is accessible at [https://visitvenice.herokuapp.com](https://visitvenice.herokuapp.com/)
-<br>
-### **Group name:** &nbsp;&nbsp;&nbsp; WorryWhale
 
-### **Authors**
+The website is accessible at [andreacerasani@github.io/HYP-project](https://andreacerasani.github.io/HYP-project/)
 
-- Davide Canali ([@CanaliDavide](https://github.com/CanaliDavide))
-- Matteo Cordioli ([@MatteoCordioli](https://github.com/MatteoCordioli))
-- Alessandro Barbiero ([@AlessandroBarbiero](https://github.com/AlessandroBarbiero))  
-- Andrea Cerasani ([@andreacerasani](https://github.com/andreacerasani)) 
-  <br>
+![VisitVenice](https://github.com/AlessandroBarbiero/HYP-project/assets/79710064/2a7e918e-def5-475a-9ac7-dcc4016a8e0e)
 
 
 ---
@@ -26,7 +18,7 @@ This part of the project consists in evaluating the usability of the [yesmilano.
 
 ## **Web Application Design**
 
-This part of the project consists in the design and development of a website for turism, a medium-sized cultural city that needs a website to make itself known and to show its offers.
+This part of the project consists of the design and development of a website for tourism. A medium-sized cultural city needs a website to make itself known and to show its offers.
 
 > The file of the final **Design Document** can be found in the [Design Documentation Folder](Documentation/DesignReport). 
 
@@ -34,7 +26,7 @@ This part of the project consists in the design and development of a website for
 ---
 
 ## Build Setup
-Remeber to move yourself inside the [src](src) to build the project.
+Remember to move yourself inside the [src](src) to build the project.
 ```bash
 # install dependencies
 $ npm install
@@ -49,3 +41,11 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+
+## **Authors**
+### **Group name:** &nbsp;&nbsp;&nbsp; WorryWhale
+
+- Davide Canali ([@CanaliDavide](https://github.com/CanaliDavide))
+- Matteo Cordioli ([@MatteoCordioli](https://github.com/MatteoCordioli))
+- Alessandro Barbiero ([@AlessandroBarbiero](https://github.com/AlessandroBarbiero))  
+- Andrea Cerasani ([@andreacerasani](https://github.com/andreacerasani)) 
